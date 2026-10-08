@@ -1,8 +1,9 @@
 site_name: Documentació del Projecte
 
-theme:
+theme: mkdocs
   name: material
 
 nav:
   - Inici: index.md
   - Grups: groups.md
+  # mkdocs.yml
