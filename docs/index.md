@@ -21,9 +21,7 @@ This preview supports *italic*, **bold**, ***bold+italic***, ~~strikethrough~~, 
 </head>
 <body>
 
-    <>
-
-
+![alt text](foto-1.jpg)
 
 ## Code blocks
 
@@ -44,7 +42,7 @@ curl -s https://www.devtoolsdaily.com/sitemap.xml | head -n 5
 ## Table
 
 | Feature | Status | Notes |
-| --- | :---: | --- |
+| ---     | :---:  | ---   |
 | GFM Tables | Yes | Uses `remark-gfm` |
 | Syntax Highlighting | Yes | Multiple languages |
 | Inline Code | Yes | Styled with monospace |
