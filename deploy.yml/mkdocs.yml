@@ -7,3 +7,21 @@ nav:
   - Inici: index.md
   - Grups: groups.md
   # mkdocs.yml
+
+  plugins:
+        - search
+        - mkdocs-minify-plugin
+
+        run: mkdocs build --clean
+
+        run: pip install mkdocs-awesome-pages-plugin
+
+        run: pip install mkdocs-minify-plugin
+
+        run: pip install mkdocs-material
+
+        run: pip install mkdocs-glightbox
+
+        run: pip install mkdocs-redirectsm
+
+        

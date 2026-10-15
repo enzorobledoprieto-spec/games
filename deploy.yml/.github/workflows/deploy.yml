@@ -35,13 +35,3 @@ jobs:
           path: site/
 
       - uses: actions/deploy-pages@v4
-
-      plugins:
-        - search
-        - mkdocs-minify-plugin
-
-        run: mkdocs build --clean
-
-        run: pip install mkdocs-awesome-pages-plugin
-
-        run: pip install mkdocs-minify-plugin
