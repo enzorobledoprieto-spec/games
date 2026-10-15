@@ -21,7 +21,7 @@ This preview supports *italic*, **bold**, ***bold+italic***, ~~strikethrough~~, 
 </head>
 <body>
 
-![alt text](foto-1.jpg)
+![alt text](imagen.png)
 
 ## Code blocks
 
