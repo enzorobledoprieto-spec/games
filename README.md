@@ -1,2 +1,1 @@
-"# juegos" 
-CUALQUIERCOSA
+Hola, me llamo Enzo Robledo, tengo 17 años, estoy estudiando en el instituto "les salines" un ciclo formativo de "informatica i xarxes locals"

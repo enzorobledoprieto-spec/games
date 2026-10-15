@@ -18,7 +18,12 @@ This preview supports *italic*, **bold**, ***bold+italic***, ~~strikethrough~~, 
 
 ## Image
 
-![Sample chart](/static/home/users-graph.png)
+</head>
+<body>
+
+    <>
+
+
 
 ## Code blocks
 
