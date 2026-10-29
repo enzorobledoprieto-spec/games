@@ -1,4 +1,4 @@
-site_name: Documentació del Projecte
+site_name:README
 
 theme: mkdocs
   name: material
@@ -9,19 +9,13 @@ nav:
   # mkdocs.yml
 
   plugins:
-        - search
-        - mkdocs-minify-plugin
-
-        run: mkdocs build --clean
-
-        run: pip install mkdocs-awesome-pages-plugin
-
-        run: pip install mkdocs-minify-plugin
-
-        run: pip install mkdocs-material
-
-        run: pip install mkdocs-glightbox
-
-        run: pip install mkdocs-redirectsm
-
-        
+    - search
+    - mkdocs-material
+    - mkdocs-material:
+        features:
+          - navigation.instant
+          - navigation.sections
+          - navigation.top
+          - search.highlight
+          - search.suggest
+    - mkdocs-minify-plugin         
