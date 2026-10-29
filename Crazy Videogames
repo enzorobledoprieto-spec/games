@@ -1,0 +1,46 @@
+Crazy Videogames
+NF4: Gestor de reserves amb IA
+
+Enzo Robledo Prieto
+24/09/2026
+
+![alt text](imagen-1.png)
+
+Negoci
+Aquesta negoci es dedica als videojocs, un edifici, amb diferents habitacions per jugar al videojoc que tu vulguis jugar,
+si vols portar el teu propi teclat i ratolí o mando de consola, al pots portar alguns caps de setmana és fa algun que altre
+torneig, i tu pots anar a participar o a animar, el que tu vulguis fer.
+
+Informació
+Negoci: Crazy Videogames
+Pàgina web: https//:crazyvideogames.com
+Telefon: +34- 520 43 65 08
+Serveill: Habitacions per jugar videojocs
+Durada: El temps desitjat
+Preu: 19’99 € per hora
+Horari: Obert  a les 9:00, descans de 13:30 a 15:30, es tanca a les 21:00 i diumenge tancat.
+Reserva: A la pàgina web per fer la reserva apareixen els dies disponibles i els preus i l’horari.
+No reserva: Si vas sense reserva hi haurà un empleat per a que t'expliqui l’horari les hores, el preu, tot el que apareix 
+a la pàgina web, si vas sense reserva tindràs que pagar 24’99 €.
+
+Dades mínimes
+Nom: Paca
+Cognoms: Garcia Sanchez
+Correu: username@gmail.com
+Telèfon (opcional): +34 *** *** ***
+
+Logotip:
+
+![alt text](imagen-2.png)
+
+Habitacions:
+
+![alt text](imagen-3.png)
+
+Esquema lògic del recorregut de les dades
+
+![alt text](Imagen-4.png)
+
+Acceptació: En cas de que la reserva s’accepta, es mandará un missatge per informar que s’ha acceptat “la reserva ha sigut acceptada”.
+
+Rebuig o cancel·lació: En cas de que la reserva no s’accepti també s’enviarà un missatge per avisar que la reserva ha sigut rebutjada o cancelada “lamentem informar-lo que la seva reserva ha sigut rebutjada” o en cas de que sugui cancel·lada “lamentem informar-lo de que la seva reserva ha sigut cancel·lada per problemes tecnics que estan passant”.
