@@ -7,3 +7,7 @@ table { border-collapse: collapse; }
 th, td { border: 1px solid #aaa; padding: .4rem; }
 #messages { min-height: 5rem; border: 1px solid #aaa; padding: .5rem; }
 /* TODO: diferenciar usuario/asistente, espera, error y confirmación. */
+
+body { background-color: #ff2d2d; color: #001eff; }
+
+h1 {color: #001eff; background-color: #ffffff; }
